@@ -1,11 +1,11 @@
 
-# Bank Loan Prediction
+# Salary Prediction
 
-This project predicts whether a loan will be approved based on various applicant details.
+This project predicts salary of an individual based on his experience.
 
 ## Overview
 
-The Bank Loan Prediction project is designed to help banks and financial institutions predict the approval of loan applications using machine learning models. This helps in automating the loan approval process and reducing manual effort.
+It is designed to give rough estimate to user about his salary based on his work experience
 
 ## Model
 
@@ -20,8 +20,8 @@ The Bank Loan Prediction project is designed to help banks and financial institu
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/CoderOMaster/Bank_Loan_Prediction.git
-    cd Bank_Loan_Prediction
+    git clone https://github.com/CoderOMaster/Salary_Prediction.git
+    cd Salary_Prediction
     ```
 
 2. Install the required packages:
